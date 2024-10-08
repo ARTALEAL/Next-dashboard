@@ -6,3 +6,7 @@ Practice Next.js. It contains code for the dashboard application.
 Login: user@nextmail.com
 Password: 123456
 ```
+
+```bash
+use pnpm package manager
+```
